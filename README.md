@@ -16,8 +16,6 @@ I build clean, interactive, and scalable web applications
 
 - 🔭 Currently working on **full-stack web projects (PHP / JS)**
 - 🎮 Interested in **gaming platforms, tools & web apps**
-- 🧠 Learning more about **architecture, Docker & performance**
-- 🎯 Goal: build **real, useful products**, not just demos
 
 ---
 
@@ -56,8 +54,3 @@ I build clean, interactive, and scalable web applications
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
 </p>
-
-### 📌 Featured Projects
-- 🎮 **Esportify** – Gaming event platform (PHP, JS, Docker)
-- 🍳 **Cuis'Zen** – Recipe website (PHP, HTML, CSS)
-- 🕹️ **GameStore** – Video game collection manager
