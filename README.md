@@ -1,12 +1,63 @@
 <h1 align="center">Hi 👋, I'm Niftysoar</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">
+Frontend-oriented Web Developer 🇫🇷 <br>
+I build clean, interactive, and scalable web applications
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/niftysoar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niftysoar" height="30" width="40" /></a>
-<a href="https://discord.gg/niftysoar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niftysoar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://your-portfolio-link.com"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://github.com/Niftysoar"><strong>💻 GitHub</strong></a> •
+  <a href="https://discord.gg/niftysoar"><strong>💬 Discord</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
+
+- 🔭 Currently working on **full-stack web projects (PHP / JS)**
+- 🎮 Interested in **gaming platforms, tools & web apps**
+- 🧠 Learning more about **architecture, Docker & performance**
+- 🎯 Goal: build **real, useful products**, not just demos
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.youtube.com/c/niftysoar" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+<a href="https://discord.gg/niftysoar" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+#### Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
+</p>
+
+### 📌 Featured Projects
+- 🎮 **Esportify** – Gaming event platform (PHP, JS, Docker)
+- 🍳 **Cuis'Zen** – Recipe website (PHP, HTML, CSS)
+- 🕹️ **GameStore** – Video game collection manager
